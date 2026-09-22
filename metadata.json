@@ -1,0 +1,6 @@
+{
+  "name": "Neon District: Vanta City",
+  "description": "An original 3D open-world action game set in Vanta City featuring third-person exploration, vehicle driving, missions, combat, police heat, and economy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
